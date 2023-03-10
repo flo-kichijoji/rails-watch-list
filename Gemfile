@@ -46,7 +46,7 @@ gem "bootsnap", require: false
 gem "sassc-rails"
 gem "autoprefixer-rails", "10.2.5"
 gem "font-awesome-sass", "~> 6.1.1"
-gem "simple_form", github: "heartcombo/simple_form"
+gem "simple_form"
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
